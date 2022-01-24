@@ -1,2 +1,2 @@
-# CPE322
-This is a repository for my work for CPE322: Engineering Design VI
+# CPE 322
+This is a repository for my work for CPE 322: Engineering Design VI
