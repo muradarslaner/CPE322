@@ -11,9 +11,7 @@ I used Windows Terminal and Windows Subsystem for Linux on my school laptop to c
   
 ![cpu.py to documentstats.py](./cpu_to_documentstats.png)  
   
-![cat file to clear](./cat_file_to_clear.png)  
-  
-Here's a program I wrote based on a (not very good) sorting algorithm I learned about in another class:  
+Here's a program `runningtime.py` I wrote based on a (not very good) sorting algorithm I learned about in another class:  
 ![Waiting on insertion sort](./waiting_on_sort.png)  
   
 ![Runtime of insertion sort](./runtime_of_sort.png)  
