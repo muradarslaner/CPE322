@@ -1,4 +1,4 @@
-# Labs 4 - Django and Flask
+# Lab 4 - Django and Flask
 I pledge my honor that I have abided by the Stevens Honor System.  
   
 For Lab 4, I demonstrated running servers and viewing apps through Django, Django REST, and Flask.  
